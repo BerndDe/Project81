@@ -1,0 +1,9 @@
+body {
+    background-size: cover;
+}
+#myCanvas{
+    border-width: 10px;
+	background-color: whitesmoke;
+	border-style: groove;
+    
+}
